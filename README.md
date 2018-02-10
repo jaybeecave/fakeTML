@@ -1,5 +1,5 @@
 # fakeTML
-Fake HTML Helpers for quick templating of websites. 
+Fake HTML Helpers for random bits of html content 
 
 ### I use Combo() in a loop on a kitchen sink page to quickly see if my base styles for new website builds look good.
 
